@@ -5,6 +5,17 @@
   <groupId>com.youmesh</groupId>
   <artifactId>stubview</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <!--
+  <configuration>
+                <mainClass>${exec.main-class}</mainClass>
+                <systemProperties>
+                    <systemProperty>
+                        <key>java.util.logging.config.file</key>
+                        <value>/Users/ukanitka/logging.properties</value>
+                    </systemProperty>
+                </systemProperties>
+  </configuration>
+  -->
   <packaging>jar</packaging>
 
   <name>stubview</name>
